@@ -1,0 +1,29 @@
+{
+  "name": "binar-bej-ch7-exam",
+  "version": "1.0.0",
+  "description": "Ujian Chapter 7 Binar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "js",
+    "express",
+    "binar",
+    "exam",
+    "ch7"
+  ],
+  "author": "wisedevguy",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "nodemon": "^2.0.21",
+    "pg": "^8.10.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.29.3",
+    "sequelize-cli": "^6.6.0"
+  }
+}
